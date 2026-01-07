@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" xmlnssvgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 128 128" style="enable-background:new 0 0 512 512" xmlSpace="preserve" class="">
+    <g>
+        <g xmlns="http://www.w3.org/2000/svg">
+            <path d="m39.6 66a7.533 7.533 0 1 0 -7.532-7.533 7.541 7.541 0 0 0 7.532 7.533zm0-11.565a4.033 4.033 0 1 1 -4.032 4.032 4.037 4.037 0 0 1 4.032-4.029z" fill="currentColor" data-original="#000000" class="" />
+            <path d="m107.4 15.408h-86.4a9.761 9.761 0 0 0 -9.75 9.75v77.642a9.761 9.761 0 0 0 9.75 9.75h86.4a9.761 9.761 0 0 0 9.75-9.75v-77.642a9.761 9.761 0 0 0 -9.75-9.75zm-86.4 3.5h86.4a6.257 6.257 0 0 1 6.25 6.25v10.234h-98.9v-10.234a6.257 6.257 0 0 1 6.25-6.25zm92.65 83.889a6.257 6.257 0 0 1 -6.25 6.25h-86.4a6.257 6.257 0 0 1 -6.25-6.25v-63.9h98.9z" fill="currentColor" data-original="#000000" class="" />
+            <path d="m26.74 29.037a1.887 1.887 0 1 0 -1.886-1.886 1.887 1.887 0 0 0 1.886 1.886z" fill="currentColor" data-original="#000000" class="" />
+            <path d="m37.519 29.037a1.887 1.887 0 1 0 -1.886-1.886 1.886 1.886 0 0 0 1.886 1.886z" fill="currentColor" data-original="#000000" class="" />
+            <path d="m48.3 29.037a1.887 1.887 0 1 0 -1.886-1.886 1.886 1.886 0 0 0 1.886 1.886z" fill="currentColor" data-original="#000000" class="" />
+            <path d="m64.471 49.672h40.147a1.75 1.75 0 0 0 0-3.5h-40.147a1.75 1.75 0 0 0 0 3.5z" fill="currentColor" data-original="#000000" class="" />
+            <path d="m64.471 60.451h20.074a1.75 1.75 0 0 0 0-3.5h-20.074a1.75 1.75 0 0 0 0 3.5z" fill="currentColor" data-original="#000000" class="" />
+            <path d="m23.776 90.832h77.394a1.75 1.75 0 1 0 0-3.5h-77.394a1.75 1.75 0 1 0 0 3.5z" fill="currentColor" data-original="#000000" class="" />
+            <path d="m23.776 101.611h77.394a1.75 1.75 0 0 0 0-3.5h-77.394a1.75 1.75 0 1 0 0 3.5z" fill="currentColor" data-original="#000000" class="" />
+            <path d="m23.776 81.315h31.644a1.75 1.75 0 0 0 1.75-1.75v-31.643a1.75 1.75 0 0 0 -1.75-1.75h-31.644a1.75 1.75 0 0 0 -1.75 1.75v31.643a1.75 1.75 0 0 0 1.75 1.75zm6.532-3.5a9.452 9.452 0 0 1 18.58 0zm-4.782-28.143h28.144v28.143h-1.246a12.943 12.943 0 0 0 -25.653 0h-1.245z" fill="currentColor" data-original="#000000" class="" />
+        </g>
+    </g>
+</svg>
