@@ -6,6 +6,8 @@ import { useSearchParams } from "next/navigation"
 import { ChevronLeft } from "lucide-react"
 import { Sidebar } from "@/components/sidebar"
 
+export const dynamic = "force-dynamic"
+
 type SourceKey = "electricity" | "mobile" | "stationary"
 
 const baselineBySource: Record<SourceKey, Array<{ metric: string; value: string }>> = {
